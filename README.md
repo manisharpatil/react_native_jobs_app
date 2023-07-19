@@ -15,3 +15,15 @@ npx create-expo-app -e with-router
 
 ## Creating App
 npx create-expo-app@latest --example with-router
+
+## run the app way 1
+
+>> npm run
+>> scan the QR code into the Expo Go app
+
+## run the app way 2
+
+>> npm install -g expo-cli
+>> expo-cli start --tunnel
+
+
