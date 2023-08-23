@@ -27,3 +27,17 @@ npx create-expo-app@latest --example with-router
 >> expo-cli start --tunnel
 
 
+## Taking a build
+
+>> expo publish
+
+
+
+## Project QR Code Link
+
+>> https://expo.dev/@manisharpatil6/react_native_jobs_app?serviceType=classic&distribution=expo-go
+
+>> Manifest: https://exp.host/@manisharpatil6/react_native_jobs_app/index.exp?sdkVersion=48.0.0 Learn more: https://expo.fyi/manifest-url
+
+>> Project page: https://expo.dev/@manisharpatil6/react_native_jobs_app?serviceType=classic&distribution=expo-go Learn more: https://expo.fyi/project-page
+
